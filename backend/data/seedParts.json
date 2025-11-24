@@ -1,0 +1,360 @@
+{
+  "parts": [
+    {
+      "part_number": "PS11752778",
+      "name": "Ice Maker Assembly",
+      "type": "refrigerator",
+      "brand": "Whirlpool",
+      "compatible_models": ["WDT780SAEM1", "ED5FHEXVB00", "WRS325SDHZ", "MFI2570FEZ"],
+      "symptoms_fixed": [
+        "ice maker not working",
+        "no ice production",
+        "ice maker stopped making ice",
+        "ice cubes not dispensing"
+      ],
+      "install_instructions": "1. Unplug the refrigerator or turn off the circuit breaker.\n2. Remove the ice bin from the freezer.\n3. Locate the ice maker mounting screws and remove them.\n4. Disconnect the wire harness from the old ice maker.\n5. Remove the old ice maker assembly.\n6. Connect the wire harness to the new ice maker.\n7. Mount the new ice maker using the screws.\n8. Replace the ice bin.\n9. Restore power and allow 24 hours for ice production to begin.",
+      "description": "OEM Whirlpool ice maker assembly. Complete replacement unit for refrigerators with automatic ice makers. Includes mounting hardware and wire harness connector.",
+      "price": 89.99,
+      "image_url": "https://www.partselect.com/images/part/PS11752778.jpg",
+      "product_url": "https://www.partselect.com/PS11752778-Whirlpool-Ice-Maker-Assembly.htm"
+    },
+    {
+      "part_number": "W10465232",
+      "name": "Dishwasher Spray Arm",
+      "type": "dishwasher",
+      "brand": "Whirlpool",
+      "compatible_models": ["WDT750SAHZ0", "WDF520PADM7", "KDFE104HPS0", "WDT730PAHZ0"],
+      "symptoms_fixed": [
+        "dishes not cleaning properly",
+        "poor wash performance",
+        "spray arm not spinning",
+        "water not reaching all dishes"
+      ],
+      "install_instructions": "1. Open the dishwasher door and remove the lower dish rack.\n2. Locate the spray arm in the bottom of the dishwasher tub.\n3. Turn the spray arm counterclockwise to unlock it.\n4. Lift the old spray arm out.\n5. Place the new spray arm onto the mounting hub.\n6. Turn clockwise until it locks into place.\n7. Manually spin the spray arm to ensure it rotates freely.\n8. Replace the lower dish rack.",
+      "description": "Lower spray arm assembly for Whirlpool and KitchenAid dishwashers. Features optimized spray pattern for better cleaning coverage.",
+      "price": 34.99,
+      "image_url": "https://www.partselect.com/images/part/W10465232.jpg",
+      "product_url": "https://www.partselect.com/W10465232-Whirlpool-Spray-Arm.htm"
+    },
+    {
+      "part_number": "W10908679",
+      "name": "Refrigerator Water Filter",
+      "type": "refrigerator",
+      "brand": "Whirlpool",
+      "compatible_models": ["WRS325SDHZ", "WRF555SDFZ", "WRS571CIHZ", "MFI2570FEZ"],
+      "symptoms_fixed": [
+        "bad tasting water",
+        "cloudy water",
+        "slow water dispenser",
+        "filter indicator light on"
+      ],
+      "install_instructions": "1. Locate the water filter in the upper right corner of the refrigerator interior.\n2. Turn the old filter counterclockwise until it releases.\n3. Pull the filter straight out.\n4. Remove the protective cap from the new filter.\n5. Insert the new filter and turn clockwise until it locks.\n6. Run 2-3 gallons of water through the dispenser to flush the system.\n7. Reset the filter indicator light (consult your manual for specific instructions).",
+      "description": "Genuine OEM refrigerator water filter. Reduces chlorine taste and odor, and removes contaminants. Replace every 6 months for optimal performance.",
+      "price": 49.99,
+      "image_url": "https://www.partselect.com/images/part/W10908679.jpg",
+      "product_url": "https://www.partselect.com/W10908679-Whirlpool-Water-Filter.htm"
+    },
+    {
+      "part_number": "WPW10462939",
+      "name": "Refrigerator Shelf",
+      "type": "refrigerator",
+      "brand": "Whirlpool",
+      "compatible_models": ["WRS325SDHZ", "WRF555SDFZ", "ED5FHEXVB00"],
+      "symptoms_fixed": [
+        "broken shelf",
+        "cracked shelf",
+        "shelf not fitting properly"
+      ],
+      "install_instructions": "1. Remove all items from the shelf.\n2. Lift the front of the shelf slightly.\n3. Pull the shelf forward to remove it from the shelf supports.\n4. Align the new shelf with the shelf support brackets.\n5. Push the shelf back until it rests securely on the supports.\n6. Ensure the shelf is level and stable before loading items.",
+      "description": "Tempered glass refrigerator shelf with spill-proof edges. Direct OEM replacement for Whirlpool refrigerators.",
+      "price": 59.99,
+      "image_url": "https://www.partselect.com/images/part/WPW10462939.jpg",
+      "product_url": "https://www.partselect.com/WPW10462939-Whirlpool-Shelf.htm"
+    },
+    {
+      "part_number": "W10712395",
+      "name": "Dishwasher Rack Adjuster",
+      "type": "dishwasher",
+      "brand": "Whirlpool",
+      "compatible_models": ["WDT750SAHZ0", "KDFE104HPS0", "WDF520PADM7"],
+      "symptoms_fixed": [
+        "rack won't adjust",
+        "upper rack stuck",
+        "rack adjuster broken",
+        "rack won't stay in position"
+      ],
+      "install_instructions": "1. Pull the upper rack completely out of the dishwasher.\n2. Locate the rack adjuster on the side of the rack.\n3. Press the release tab and slide the old adjuster off.\n4. Align the new adjuster with the rack rail.\n5. Slide it onto the rail until it clicks into place.\n6. Test the adjustment mechanism by raising and lowering the rack.\n7. Slide the rack back into the dishwasher.",
+      "description": "Upper rack position adjuster for Whirlpool and KitchenAid dishwashers. Allows easy height adjustment to accommodate tall items.",
+      "price": 24.99,
+      "image_url": "https://www.partselect.com/images/part/W10712395.jpg",
+      "product_url": "https://www.partselect.com/W10712395-Whirlpool-Rack-Adjuster.htm"
+    },
+    {
+      "part_number": "2198597",
+      "name": "Refrigerator Door Bin",
+      "type": "refrigerator",
+      "brand": "Whirlpool",
+      "compatible_models": ["WRS325SDHZ", "ED5FHEXVB00", "MFI2570FEZ"],
+      "symptoms_fixed": [
+        "broken door bin",
+        "cracked door shelf",
+        "door bin fell off"
+      ],
+      "install_instructions": "1. Empty the contents of the old door bin.\n2. Lift the bin up and out to remove it from the door brackets.\n3. If needed, remove the old mounting brackets.\n4. Install the new mounting brackets if provided.\n5. Align the new bin with the brackets on the door.\n6. Press down firmly until the bin snaps into place.\n7. Test by gently pulling on the bin to ensure it's secure.",
+      "description": "Clear door bin for refrigerator. Holds gallon containers and tall bottles. BPA-free plastic construction.",
+      "price": 39.99,
+      "image_url": "https://www.partselect.com/images/part/2198597.jpg",
+      "product_url": "https://www.partselect.com/2198597-Whirlpool-Door-Bin.htm"
+    },
+    {
+      "part_number": "W11087619",
+      "name": "Dishwasher Heating Element",
+      "type": "dishwasher",
+      "brand": "Whirlpool",
+      "compatible_models": ["WDT750SAHZ0", "WDF520PADM7", "KDFE104HPS0"],
+      "symptoms_fixed": [
+        "dishes not drying",
+        "dishwasher not heating",
+        "poor drying performance",
+        "water not hot enough"
+      ],
+      "install_instructions": "1. Turn off power to the dishwasher at the circuit breaker.\n2. Remove the lower dish rack.\n3. Remove the spray arm and filter assembly.\n4. Locate the heating element at the bottom of the tub.\n5. Disconnect the wire terminals from the element.\n6. Remove the mounting nut from under the tub (you may need to access from below).\n7. Pull the old element up and out.\n8. Insert the new element through the tub bottom.\n9. Secure with the mounting nut from below.\n10. Reconnect the wire terminals.\n11. Reinstall the filter assembly and spray arm.\n12. Restore power and test on a normal cycle.",
+      "description": "Genuine OEM heating element for Whirlpool dishwashers. Heats water during wash and dry cycles. 1500W.",
+      "price": 44.99,
+      "image_url": "https://www.partselect.com/images/part/W11087619.jpg",
+      "product_url": "https://www.partselect.com/W11087619-Whirlpool-Heating-Element.htm"
+    },
+    {
+      "part_number": "W10828250",
+      "name": "Refrigerator Crisper Drawer",
+      "type": "refrigerator",
+      "brand": "Whirlpool",
+      "compatible_models": ["WRS325SDHZ", "WRF555SDFZ", "ED5FHEXVB00"],
+      "symptoms_fixed": [
+        "cracked crisper drawer",
+        "broken vegetable drawer",
+        "drawer slides not working"
+      ],
+      "install_instructions": "1. Remove the existing crisper drawer by pulling it straight out.\n2. If the drawer slides are damaged, remove them from the refrigerator.\n3. Install new slides if needed by snapping them into the mounting brackets.\n4. Align the new crisper drawer with the slides.\n5. Push the drawer back into position until fully seated.\n6. Test by pulling the drawer in and out several times.",
+      "description": "Full-width crisper drawer with humidity control. Clear plastic with high-impact resistance. Includes mounting slides.",
+      "price": 64.99,
+      "image_url": "https://www.partselect.com/images/part/W10828250.jpg",
+      "product_url": "https://www.partselect.com/W10828250-Whirlpool-Crisper-Drawer.htm"
+    },
+    {
+      "part_number": "WPW10195417",
+      "name": "Dishwasher Pump and Motor Assembly",
+      "type": "dishwasher",
+      "brand": "Whirlpool",
+      "compatible_models": ["WDT750SAHZ0", "WDF520PADM7", "KDFE104HPS0", "WDT730PAHZ0"],
+      "symptoms_fixed": [
+        "dishwasher not draining",
+        "dishwasher not washing",
+        "loud grinding noise",
+        "no water circulation"
+      ],
+      "install_instructions": "1. Turn off power and water supply to the dishwasher.\n2. Remove the lower dish rack, spray arm, and filter assembly.\n3. Tip the dishwasher on its back (have someone help).\n4. Disconnect the drain hose and water supply line.\n5. Disconnect the wire harness from the pump motor.\n6. Remove the pump mounting screws.\n7. Remove the old pump and motor assembly.\n8. Position the new pump assembly and secure with screws.\n9. Reconnect the wire harness, drain hose, and water line.\n10. Return dishwasher to upright position.\n11. Reinstall filter, spray arm, and rack.\n12. Restore power and water, then run a test cycle.",
+      "description": "Complete pump and motor assembly for Whirlpool dishwashers. Includes circulation pump, drain pump, and motor. Professional installation recommended.",
+      "price": 179.99,
+      "image_url": "https://www.partselect.com/images/part/WPW10195417.jpg",
+      "product_url": "https://www.partselect.com/WPW10195417-Whirlpool-Pump-Motor.htm"
+    },
+    {
+      "part_number": "W10304490",
+      "name": "Refrigerator Evaporator Fan Motor",
+      "type": "refrigerator",
+      "brand": "Whirlpool",
+      "compatible_models": ["WRS325SDHZ", "WRF555SDFZ", "MFI2570FEZ", "ED5FHEXVB00"],
+      "symptoms_fixed": [
+        "refrigerator not cooling",
+        "freezer not cold enough",
+        "loud fan noise",
+        "frost buildup in freezer"
+      ],
+      "install_instructions": "1. Unplug the refrigerator.\n2. Remove all items from the freezer.\n3. Remove the freezer shelves and bins.\n4. Remove the screws securing the rear evaporator cover panel.\n5. Carefully remove the panel to access the evaporator fan.\n6. Disconnect the wire harness from the fan motor.\n7. Remove the fan blade from the motor shaft.\n8. Remove the mounting screws and take out the old motor.\n9. Install the new motor and secure with screws.\n10. Attach the fan blade to the new motor shaft.\n11. Reconnect the wire harness.\n12. Replace the evaporator cover panel.\n13. Reinstall shelves and bins.\n14. Plug in the refrigerator and allow 24 hours to reach proper temperature.",
+      "description": "OEM evaporator fan motor for Whirlpool refrigerators. Circulates cold air throughout the refrigerator and freezer compartments.",
+      "price": 94.99,
+      "image_url": "https://www.partselect.com/images/part/W10304490.jpg",
+      "product_url": "https://www.partselect.com/W10304490-Whirlpool-Fan-Motor.htm"
+    },
+    {
+      "part_number": "W10906394",
+      "name": "Dishwasher Door Latch",
+      "type": "dishwasher",
+      "brand": "Whirlpool",
+      "compatible_models": ["WDT750SAHZ0", "KDFE104HPS0", "WDT730PAHZ0"],
+      "symptoms_fixed": [
+        "door won't latch",
+        "dishwasher won't start",
+        "door pops open during cycle",
+        "latch broken"
+      ],
+      "install_instructions": "1. Turn off power to the dishwasher.\n2. Open the dishwasher door.\n3. Remove the screws securing the inner door panel.\n4. Carefully separate the inner panel from the outer door.\n5. Locate the door latch assembly.\n6. Disconnect the wire harness from the latch.\n7. Remove the mounting screws and remove the old latch.\n8. Install the new latch assembly and secure with screws.\n9. Reconnect the wire harness.\n10. Reassemble the door panels.\n11. Test the latch mechanism before restoring power.\n12. Run a test cycle to ensure proper operation.",
+      "description": "Door latch and strike assembly for Whirlpool and KitchenAid dishwashers. Includes latch mechanism and mounting hardware.",
+      "price": 54.99,
+      "image_url": "https://www.partselect.com/images/part/W10906394.jpg",
+      "product_url": "https://www.partselect.com/W10906394-Whirlpool-Door-Latch.htm"
+    },
+    {
+      "part_number": "W10321304",
+      "name": "Refrigerator Defrost Heater",
+      "type": "refrigerator",
+      "brand": "Whirlpool",
+      "compatible_models": ["WRS325SDHZ", "ED5FHEXVB00", "MFI2570FEZ"],
+      "symptoms_fixed": [
+        "frost buildup in freezer",
+        "freezer too cold",
+        "ice buildup on back wall",
+        "refrigerator not defrosting"
+      ],
+      "install_instructions": "1. Unplug the refrigerator from the power outlet.\n2. Empty the freezer compartment.\n3. Remove shelves, bins, and the rear evaporator cover panel.\n4. Locate the defrost heater attached to the evaporator coils.\n5. Disconnect the wire terminals from the heater.\n6. Remove the mounting clips or brackets holding the heater.\n7. Carefully remove the old heater from the evaporator.\n8. Position the new heater along the evaporator coils.\n9. Secure with mounting clips.\n10. Reconnect the wire terminals.\n11. Replace the evaporator cover panel.\n12. Reinstall shelves and bins.\n13. Plug in the refrigerator.",
+      "description": "Defrost heater for Whirlpool refrigerators. Melts frost from evaporator coils during automatic defrost cycles. 450W.",
+      "price": 38.99,
+      "image_url": "https://www.partselect.com/images/part/W10321304.jpg",
+      "product_url": "https://www.partselect.com/W10321304-Whirlpool-Defrost-Heater.htm"
+    },
+    {
+      "part_number": "W11096925",
+      "name": "Dishwasher Detergent Dispenser",
+      "type": "dishwasher",
+      "brand": "Whirlpool",
+      "compatible_models": ["WDT750SAHZ0", "WDF520PADM7", "KDFE104HPS0"],
+      "symptoms_fixed": [
+        "detergent dispenser not opening",
+        "soap not dispensing",
+        "dispenser door broken",
+        "detergent cup stuck closed"
+      ],
+      "install_instructions": "1. Open the dishwasher door fully.\n2. Remove the screws from the inner door panel.\n3. Carefully pull the inner panel away to access the dispenser.\n4. Disconnect the wire harness from the dispenser.\n5. Remove the mounting screws securing the dispenser.\n6. Remove the old dispenser assembly.\n7. Position the new dispenser and secure with screws.\n8. Reconnect the wire harness.\n9. Reassemble the inner door panel.\n10. Test the dispenser by manually opening and closing it.\n11. Run a test cycle to verify operation.",
+      "description": "Detergent dispenser assembly with rinse aid compartment. Includes actuator and spring mechanism for timed release.",
+      "price": 69.99,
+      "image_url": "https://www.partselect.com/images/part/W11096925.jpg",
+      "product_url": "https://www.partselect.com/W11096925-Whirlpool-Detergent-Dispenser.htm"
+    },
+    {
+      "part_number": "2304134",
+      "name": "Refrigerator Water Inlet Valve",
+      "type": "refrigerator",
+      "brand": "Whirlpool",
+      "compatible_models": ["WRS325SDHZ", "WRF555SDFZ", "MFI2570FEZ", "ED5FHEXVB00"],
+      "symptoms_fixed": [
+        "no water to ice maker",
+        "water dispenser not working",
+        "slow water flow",
+        "water leaking behind refrigerator"
+      ],
+      "install_instructions": "1. Unplug the refrigerator and turn off the water supply.\n2. Pull the refrigerator away from the wall.\n3. Locate the water inlet valve at the back bottom of the unit.\n4. Disconnect the water line from the valve.\n5. Disconnect the wire harness from the valve.\n6. Remove the mounting screws and take out the old valve.\n7. Install the new valve and secure with screws.\n8. Reconnect the wire harness.\n9. Connect the water supply line to the valve.\n10. Turn on the water supply and check for leaks.\n11. Plug in the refrigerator.\n12. Test the water dispenser and ice maker.",
+      "description": "Water inlet valve for Whirlpool refrigerators. Controls water flow to ice maker and dispenser. Dual solenoid design.",
+      "price": 52.99,
+      "image_url": "https://www.partselect.com/images/part/2304134.jpg",
+      "product_url": "https://www.partselect.com/2304134-Whirlpool-Water-Valve.htm"
+    },
+    {
+      "part_number": "W10861225",
+      "name": "Dishwasher Control Board",
+      "type": "dishwasher",
+      "brand": "Whirlpool",
+      "compatible_models": ["WDT750SAHZ0", "KDFE104HPS0", "WDT730PAHZ0"],
+      "symptoms_fixed": [
+        "dishwasher won't start",
+        "control panel not working",
+        "display not lighting up",
+        "buttons not responding"
+      ],
+      "install_instructions": "1. Turn off power to the dishwasher at the circuit breaker.\n2. Remove the screws from the control panel or door.\n3. Carefully pull the control panel forward.\n4. Take a photo of all wire connections for reference.\n5. Disconnect all wire harnesses from the old control board.\n6. Remove the mounting screws holding the board.\n7. Remove the old control board.\n8. Install the new control board and secure with screws.\n9. Reconnect all wire harnesses using your photo as reference.\n10. Reassemble the control panel.\n11. Restore power and test all functions.",
+      "description": "Electronic control board for Whirlpool and KitchenAid dishwashers. Controls all dishwasher functions including cycles, temperature, and timing. Pre-programmed and ready to install.",
+      "price": 189.99,
+      "image_url": "https://www.partselect.com/images/part/W10861225.jpg",
+      "product_url": "https://www.partselect.com/W10861225-Whirlpool-Control-Board.htm"
+    },
+    {
+      "part_number": "W10856632",
+      "name": "Refrigerator Door Gasket",
+      "type": "refrigerator",
+      "brand": "Whirlpool",
+      "compatible_models": ["WRS325SDHZ", "WRF555SDFZ", "ED5FHEXVB00"],
+      "symptoms_fixed": [
+        "door not sealing",
+        "warm refrigerator",
+        "frost around door",
+        "torn door seal"
+      ],
+      "install_instructions": "1. Open the refrigerator door.\n2. Starting at one corner, carefully pull the old gasket out of the retaining channel.\n3. Clean the retaining channel with warm soapy water and dry thoroughly.\n4. Soak the new gasket in warm water for a few minutes to make it more flexible.\n5. Starting at the top corner, push the gasket lip into the retaining channel.\n6. Work your way around the door, pressing the gasket firmly into place.\n7. Close the door and check the seal by placing a dollar bill between the gasket and the cabinet.\n8. If the bill pulls out easily, adjust the gasket in that area.\n9. Allow 24 hours for the gasket to fully conform to the door.",
+      "description": "Magnetic door gasket for Whirlpool refrigerator fresh food compartment. Creates airtight seal to maintain proper temperature. Pre-shaped for easy installation.",
+      "price": 74.99,
+      "image_url": "https://www.partselect.com/images/part/W10856632.jpg",
+      "product_url": "https://www.partselect.com/W10856632-Whirlpool-Door-Gasket.htm"
+    },
+    {
+      "part_number": "W10884390",
+      "name": "Dishwasher Upper Rack Assembly",
+      "type": "dishwasher",
+      "brand": "Whirlpool",
+      "compatible_models": ["WDT750SAHZ0", "WDF520PADM7", "KDFE104HPS0"],
+      "symptoms_fixed": [
+        "broken rack",
+        "rack wheels not rolling",
+        "rusty rack",
+        "tines broken"
+      ],
+      "install_instructions": "1. Pull the upper rack out completely.\n2. Lift the front of the rack up to clear the stops.\n3. Pull the rack all the way out and remove it.\n4. Transfer any adjustable parts from the old rack if needed.\n5. Position the new rack on the rails.\n6. Push the rack in until it's fully seated on both sides.\n7. Test by pulling the rack in and out several times.\n8. Verify the rack is level and rolls smoothly.",
+      "description": "Complete upper dish rack assembly with adjustable tines and smooth-rolling wheels. Gray coating resists rust and staining.",
+      "price": 129.99,
+      "image_url": "https://www.partselect.com/images/part/W10884390.jpg",
+      "product_url": "https://www.partselect.com/W10884390-Whirlpool-Upper-Rack.htm"
+    },
+    {
+      "part_number": "W10613606",
+      "name": "Refrigerator Ice Level Control Board",
+      "type": "refrigerator",
+      "brand": "Whirlpool",
+      "compatible_models": ["WRS325SDHZ", "MFI2570FEZ", "ED5FHEXVB00"],
+      "symptoms_fixed": [
+        "ice maker overfilling",
+        "ice bin overflowing",
+        "ice maker won't stop making ice",
+        "ice level sensor not working"
+      ],
+      "install_instructions": "1. Unplug the refrigerator.\n2. Remove the ice bin from the freezer.\n3. Locate the ice level control board inside the ice maker compartment.\n4. Disconnect the wire harness from the board.\n5. Remove the mounting screws.\n6. Remove the old control board.\n7. Install the new board and secure with screws.\n8. Reconnect the wire harness.\n9. Replace the ice bin.\n10. Plug in the refrigerator.\n11. Allow 24 hours for normal operation to resume.",
+      "description": "Ice level control board for Whirlpool refrigerators. Controls ice production and prevents overfilling. Includes optical sensor and mounting hardware.",
+      "price": 67.99,
+      "image_url": "https://www.partselect.com/images/part/W10613606.jpg",
+      "product_url": "https://www.partselect.com/W10613606-Whirlpool-Ice-Control.htm"
+    },
+    {
+      "part_number": "W11513976",
+      "name": "Dishwasher Silverware Basket",
+      "type": "dishwasher",
+      "brand": "Whirlpool",
+      "compatible_models": ["WDT750SAHZ0", "WDF520PADM7", "KDFE104HPS0", "WDT730PAHZ0"],
+      "symptoms_fixed": [
+        "broken silverware basket",
+        "cracked utensil holder",
+        "basket handles broken"
+      ],
+      "install_instructions": "1. Open the dishwasher door.\n2. Remove the lower dish rack.\n3. Remove the old silverware basket.\n4. Place the new basket in the lower rack.\n5. Ensure it fits securely and doesn't interfere with the spray arm.\n6. Replace the lower rack.\n7. Close the door.",
+      "description": "Durable plastic silverware basket with removable dividers. Features handle for easy loading and unloading. Dishwasher safe construction.",
+      "price": 29.99,
+      "image_url": "https://www.partselect.com/images/part/W11513976.jpg",
+      "product_url": "https://www.partselect.com/W11513976-Whirlpool-Silverware-Basket.htm"
+    },
+    {
+      "part_number": "W11384469",
+      "name": "Refrigerator Thermistor",
+      "type": "refrigerator",
+      "brand": "Whirlpool",
+      "compatible_models": ["WRS325SDHZ", "WRF555SDFZ", "MFI2570FEZ"],
+      "symptoms_fixed": [
+        "refrigerator too warm",
+        "freezer too cold",
+        "temperature fluctuations",
+        "compressor running constantly"
+      ],
+      "install_instructions": "1. Unplug the refrigerator.\n2. Empty the freezer or refrigerator compartment (depending on location).\n3. Remove the rear air duct or evaporator cover.\n4. Locate the thermistor attached to the evaporator or air duct.\n5. Disconnect the wire connector.\n6. Remove the thermistor from its mounting clip.\n7. Insert the new thermistor into the mounting clip.\n8. Reconnect the wire connector.\n9. Replace the air duct or cover.\n10. Plug in the refrigerator.\n11. Allow 24 hours for temperature to stabilize.",
+      "description": "Temperature sensor thermistor for Whirlpool refrigerators. Monitors compartment temperature and signals the control board. Includes wire harness connector.",
+      "price": 34.99,
+      "image_url": "https://www.partselect.com/images/part/W11384469.jpg",
+      "product_url": "https://www.partselect.com/W11384469-Whirlpool-Thermistor.htm"
+    }
+  ]
+}

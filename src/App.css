@@ -6,7 +6,9 @@
 }
 
 .App {
-  background-color: white;
+  background-color: #fafafa;
+  height: 100vh;
+  overflow: hidden;
 }
 
 .heading {
@@ -14,12 +16,20 @@
   top: 0;
   left: 0;
   width: 100%;
-  background: rgba(255, 255, 255); 
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(135deg, #1b3875 0%, #2563eb 100%);
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.15);
   display: flex;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 18px;
   justify-content: center;
   align-items: center;
   height: 60px;
+  color: white;
+  z-index: 100;
+  gap: 10px;
+}
+
+.heading::before {
+  content: "🔧";
+  font-size: 24px;
 }
