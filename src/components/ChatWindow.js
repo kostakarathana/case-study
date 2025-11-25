@@ -42,9 +42,9 @@ function ChatWindow() {
   };
 
   const quickActions = [
-    "How do I install PS11752778?",
-    "Is W10465232 compatible with WDT750SAHZ0?",
-    "My ice maker is not working"
+    "How can I install part number PS11752778?",
+    "Is this part compatible with my WDT780SAEM1 model?",
+    "The ice maker on my Whirlpool fridge is not working. How can I fix it?"
   ];
 
   return (
