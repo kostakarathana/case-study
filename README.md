@@ -50,7 +50,7 @@ I built four main tools:
 - Got 19 real parts (11 refrigerator, 8 dishwasher) from Whirlpool and GE
 - All prices are real from their website
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 - Node.js v18+ 
@@ -90,7 +90,7 @@ npm start
 # App opens at http://localhost:3000
 ```
 
-## 🚀 Usage
+## Usage
 
 ### Example Queries (from case study requirements)
 
@@ -146,16 +146,16 @@ The scraper got most of the data, but I manually added some realistic compatible
 
 Open the chat interface at `http://localhost:3000` and test:
 
-✅ Installation: "How can I install part number PS11752778?"  
-✅ Compatibility: "Is part PS11752778 compatible with my WDT780SAEM1 model?"  
-✅ Troubleshooting: "The ice maker on my Whirlpool fridge is not working"
+- Installation: "How can I install part number PS11752778?"
+- Compatibility: "Is part PS11752778 compatible with my WDT780SAEM1 model?"
+- Troubleshooting: "The ice maker on my Whirlpool fridge is not working"
 
 ### Test Out-of-Scope
 
 Try: "What's the weather today?" or "How do I fix my car?"  
 Expected: Polite message redirecting to PartSelect-related questions
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 case-study/
@@ -182,7 +182,7 @@ case-study/
     └── index.html
 ```
 
-## 🎨 UI Features
+## UI Features
 
 - **Product Cards**: Display part details with images, prices, compatible models, and symptoms fixed
 - **Installation Steps**: Numbered step visualization for installation instructions
@@ -242,7 +242,7 @@ After my tools do their thing and find the relevant parts or info, I send that d
 - Actually understands the appliance repair domain without much prompting
 - Cost-effective if this were going to production
 
-## 📊 Data Statistics
+## Data Statistics
 
 - **Total Parts:** 19
 - **Refrigerator Parts:** 11
@@ -268,11 +268,11 @@ After my tools do their thing and find the relevant parts or info, I send that d
 - Add voice input for hands-free use during repairs
 - Build admin tools to easily add/update parts without touching the JSON file
 
-## 📝 License
+## License
 
 This project is submitted as part of the Instalily AI case study interview process.
 
-## 👤 Author
+## Author
 
 Kosta Karathanasopoulos  
 Case Study Submission for Instalily AI  
