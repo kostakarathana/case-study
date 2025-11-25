@@ -1,5 +1,7 @@
 # PartSelect Chat Agent - Instalily AI Case Study
 
+LOOM LINK: https://www.loom.com/share/5a187da5f73d4ea29a12524781fc30fb
+
 This is my submission for the Instalily AI case study. I built an intelligent chat agent for PartSelect that helps customers find and install refrigerator and dishwasher parts. The agent uses React for the frontend, Node.js/Express for the backend, and integrates with Deepseek's LLM to understand what users are asking for.
 
 ## What It Does
